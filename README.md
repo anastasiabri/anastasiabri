@@ -1,16 +1,37 @@
-## Hi there 👋
+### Привет, я Анастасия 👋
 
-<!--
-**anastasiabri/anastasiabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Analyst с бэкграундом в IT-менеджменте**
 
-Here are some ideas to get you started:
+Я продуктовый аналитик, который пришел в работу с данными после 5 лет управления кросс-функциональными командами разработки. Мой управленческий опыт помогает мне не просто писать код, а понимать архитектуру продуктов, видеть бизнес-смысл за сухими цифрами, эффективно общаться со стейкхолдерами и грамотно управлять их ожиданиями на всех этапах исследования
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Обожаю природу: прогулки, походы, путешествия. Занимаюсь йогой 🧘‍♀️
+
+Открыта для сотрудничества! 🚀
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/N_Bri)
+
+---
+
+#### 🛠 Языки и инструменты :
+
+![Python](https://camo.githubusercontent.com/55d8e787c455bf979803b1ee1982448b5be187deb27c17ad54a2249e518155a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d77686974653f6c6f676f3d707974686f6e267374796c653d666f722d7468652d6261646765)
+![Pandas](https://camo.githubusercontent.com/33d3d0ac83046a7285e772787952df9df71150d13dcc98a9a673ca8d35fae380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d77686974653f6c6f676f3d70616e646173266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)
+![NumPy](https://camo.githubusercontent.com/bba1e122ff6ca4ac06e52a9ee21b904c69f031cab7f7ebcb03754f2eefbfb691/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d77686974653f6c6f676f3d6e756d7079266c6f676f436f6c6f723d626c7565267374796c653d666f722d7468652d6261646765)
+![SciPy](https://camo.githubusercontent.com/d0ec16ac19951b9ef64a3beeb537c76e30703fdb34973c30fe2bfa42395e516e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636970792d77686974653f6c6f676f3d5363697079266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
+![Matplotlib](https://camo.githubusercontent.com/d48b5213f220df6eb4da6de8c58ef9a1f2346cdbcecf0b825c46a019ccd55c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d77686974653f6c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
+![Seaborn](https://camo.githubusercontent.com/d617baccc3608a8f3652b13fb5f6fd581f5f644808dd5ad1b95330e2cec4cd8b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d77686974653f6c6f676f3d536561626f726e266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
+![Jupiter Notebook](https://camo.githubusercontent.com/d9fc7c8de767bac232a0dd27ea9aa7714d86a6a37fea9471fffbd5d2933600ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465725f6e6f7465626f6f6b2d77686974653f6c6f676f3d4a757079746572267374796c653d666f722d7468652d6261646765)
+![Git](https://camo.githubusercontent.com/b4d83768af8ab6c94a7403597210bb4c52b7d5239a5c7310b28f4ca9c5e84788/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4749542d4646463f7374796c653d666f722d7468652d6261646765266c6f676f3d474954)
+![SQL](https://camo.githubusercontent.com/94bdbdd1bcc30f2e427382382fed713172717debfb09982eea720448fb314317/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7953514c2d77686974653f6c6f676f3d6d7953514c2673267374796c653d666f722d7468652d6261646765)
+![PostgreSQL](https://camo.githubusercontent.com/4e5b02ca680ae9d7eacd3f38d5b8a460e2523049d2dca27d28911e0c673dbfa6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d77686974653f6c6f676f3d506f737467726553514c2673267374796c653d666f722d7468652d6261646765)
+![Redash](https://camo.githubusercontent.com/ad53b0bc13da6235f0284a65ee81062257a24aaf0b7696433e8e95ed24d63180/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265646173682d77686974653f6c6f676f3d726564617368266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765)
+![Yandex DataLens](https://camo.githubusercontent.com/24bee344f06321ca0d91f1b4e790fcb4b276ff0ec571fdf5e3336815ded62390/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446174616c656e732d77686974653f6c6f676f3d446174616c656e73267374796c653d666f722d7468652d6261646765)
+![Excel](https://img.shields.io/badge/excel-217346?logo=microsoftexcel&logoColor=white&style=for-the-badge)
+
+---
+
+#### 📁 Мои проекты
+| Название проекта | Описание | Стек |
+| :--- | :--- | :--- |
+| [A/В-тестирование новой механики оплаты на сайте](#) | Оценка успешности внедрения новой механики с использованием статистических критериев. Анализ итогов эксперимента и вывод, стоит ли запускать новую механику оплаты на всех пользователей. | Python Pandas Numpy Scipy |
+
